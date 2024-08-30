@@ -21,7 +21,7 @@ You can download and install Node.js from [Node.js official website](https://nod
 Clone the repository to your local machine, or download the source code.
 
 ```bash
-git clone https://github.com/yourusername/racing-game.git
+git clone https://github.com/RITIK-12/Velocity.git
 cd racing-game/
 ```
 
